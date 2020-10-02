@@ -12,3 +12,6 @@ function showPattern(totalRows){
     }
 
 }
+
+printHello()
+showPattern(9)
